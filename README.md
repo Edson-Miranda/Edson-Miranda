@@ -1,5 +1,5 @@
 Hi. I'm Edson.
-I'm currently studying data analysis at ** Soul Code Academy**.
+I'm currently studying data analysis at **Soul Code Academy**.
 I'm from Brazil.
 I like English and programming.
 Oi, sou Edson.
